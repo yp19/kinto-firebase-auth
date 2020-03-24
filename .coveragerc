@@ -1,0 +1,3 @@
+[run]
+source = kinto_firebase_auth
+omit = kinto_firebase_auth/test*
